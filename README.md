@@ -2,7 +2,7 @@
 
 - 🌱 estudando lógica de programação - variáveis e estruturas condicionais, sequenciais, repetitivas, vetores e matrizes
 - ⏳ loading... fullstack
-- 📚 Sql//html/css
+- 📚 Sql//html/css/Ror/GraphQl/Nextjs/Tsx
 - 📫 nanobev@gmail.com
 - 😄 Pronouns: ele / dele
 
